@@ -13,7 +13,7 @@ I'm a **software developer** passionate about building innovative solutions, lea
 🌱 Currently learning: Advanced AI/ML techniques and modern web frameworks  
 
 📫 **Get in touch:**  
-- Email: larrypage551@outlook.com 
-- LinkedIn: https://linkedin.com/in/larry-page  
+- Email: derricklarios@outlook.com 
+- LinkedIn: https://linkedin.com/in/derrick-larios  
 
 🚀 More projects and updates coming soon!
